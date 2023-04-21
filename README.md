@@ -23,6 +23,16 @@ La cúal contará con una verificasión para confirmar que los datos de usuario 
 
 UN MENÚ PRINCIPAL EN DONDE SE PUEDE ELEGIR ENTRE REGISTRAR UNA NUEVA RESERVA O <br>BUSCAR DATOS DE LAS RESERVAS Y HUESPEDES REGISTRADOS<br>
 
-![menu principal](https://user-images.githubusercontent.com/121276241/233531414-aa620f5e-2369-421c-9dcc-bd3dc44a3607.png)
+![menu principal](https://user-images.githubusercontent.com/121276241/233531414-aa620f5e-2369-421c-9dcc-bd3dc44a3607.png)<br>
+
+EN LA SECCIÓN DE REGISTRO DE NUEVA RESERVA, cuenta con la restricción en cuanto a las fechas de entrada como de salida<br>
+para evitar que por error introduzcan las fechas de manera equivocada<br>
+
+![error en fechas de reserva](https://user-images.githubusercontent.com/121276241/233533281-0794abaa-f218-4c07-8285-9314cdf5004d.png)<br>
+
+
+
+
+
 
 
