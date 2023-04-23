@@ -1,16 +1,20 @@
 # Challenge-Hotel-Alura-G4<br>
 
 En esta ocasión le muestro el desarrollo del tercer desafío del programa Oracle One Education.<br>
-Gestionado por Alura Latam en asociación con Oracle, en representación del grupo 4 (G4) "Back End".<br><br>
-El desfío en desarrollo presenta los retos siguientes:<br>
-- Contar con protección de acceso por medio de usuario y contraseña.<br>
-- Guardar en una base de datos los registros de reservas y huespedes que llegan al Hotel implementando JDBC en java.<br>
+Gestionado por Alura Latam en asociación con Oracle, en representación del grupo 4 (G4) "Back End".<br>
+Durante el proceso será necesario realizar una conexión con una base de datos, en este caso en particular usé una base de datos en MySQL.<br><br>
+
+
+## El desfío en desarrollo presenta los retos siguientes:<br>
+- Conectarse a una base de datos MySQL y a través de esa conexión administrar las reservas y huespedes de nuestro hotel.<br>
+- Nuestro programa debe contar con protección de acceso por medio de usuario y contraseña.<br>
+- Guardar en la base de datos los registros de reservas y huespedes que llegan al Hotel implementando JDBC en java.<br>
 - Editar cada uno de los campos de los registros tanto en reservas como en los huespedes, pero manteniendo protegidos sus respectivos números identificadores "ID".<br>
 - Eliminar las reservas y huespedes.<br>
-- Buscar registros por medio de su ID.<br><br>
+- Buscar registros dentro de la base de datos, en este caso usé búsqueda por medio de su ID.<br><br>
 
 
-# Componentes y funciones del programa<br>
+## Componentes y funciones del programa<br>
 
 PANTALLA INICIAL CON UN BOTON PARA HACER LOGIN<br>
 ![Login](https://user-images.githubusercontent.com/121276241/233530736-a812be89-51cb-45cc-be11-e2ffc2b71036.png)<br>
@@ -30,8 +34,9 @@ para evitar que por error introduzcan las fechas de manera equivocada<br>
 
 ![error en fechas de reserva](https://user-images.githubusercontent.com/121276241/233533281-0794abaa-f218-4c07-8285-9314cdf5004d.png)<br>
 
+El programa debe devolver automaticamente el valor de dicha reserva para luego proceder a seleccionar la forma de pago de la reserva<br> 
 
-
+![valor reserva](https://user-images.githubusercontent.com/121276241/233849972-99674ba3-49f1-44c3-892f-36c3d2921c71.png)<br>
 
 
 
