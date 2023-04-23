@@ -13,6 +13,10 @@ Durante el proceso será necesario realizar una conexión con una base de datos,
 - Eliminar las reservas y huespedes.<br>
 - Buscar registros dentro de la base de datos, en este caso usé búsqueda por medio de su ID.<br><br>
 
+## Para iniciar, debemos crear nuestra base de datos en MySQL Workbench<br><br>
+
+![MySQL](https://user-images.githubusercontent.com/121276241/233858203-9721787f-43fc-4c57-85df-f925926b0d26.png)
+
 
 ## Componentes y funciones del programa<br>
 
