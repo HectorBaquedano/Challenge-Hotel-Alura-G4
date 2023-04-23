@@ -64,8 +64,8 @@ Actualizar nuestra tabla una vez borrado un registro<br><br>
 https://youtu.be/f9u8-Vdr1Bg
 
 ## GRACIAS POR SU LECTURA!!!<br>
-www.linkedin.com/in/
-hector-baquedano-9506b325b
+[www.linkedin.com/in/
+hector-baquedano-9506b325b](https://www.linkedin.com/in/hector-baquedano-9506b325b/)
 
 
 
