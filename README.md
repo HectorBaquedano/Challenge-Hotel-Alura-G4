@@ -33,7 +33,7 @@ El programa debe devolver automaticamente el valor de dicha reserva para luego p
 ![error en fechas de reserva](https://user-images.githubusercontent.com/121276241/233533281-0794abaa-f218-4c07-8285-9314cdf5004d.png) ![valor reserva](https://user-images.githubusercontent.com/121276241/233849972-99674ba3-49f1-44c3-892f-36c3d2921c71.png)<br>
 
 - REGISTRO DE HUESPED<br>
-Una vez guardada la reserva, pasa a la ventana para registrar al huesped que realiza la reserva<br><br>
+Una vez guardada la reserva, pasa a la ventana para registrar al huesped que realiza la reserva, registrando su nombre, apellido, fecha de nacimiento, número de telefono y seleccionando la nacionalidad, colocando de manera automatica el número de reserva<br><br>
 ![registro de huesped](https://user-images.githubusercontent.com/121276241/233850833-5e9a42a6-1023-44c3-a089-78a5a1840bca.png)
 
 
