@@ -19,7 +19,7 @@ Durante el proceso será necesario realizar una conexión con una base de datos,
 - PANTALLA INICIAL CON UN BOTON PARA HACER LOGIN<br>
 ![Login](https://user-images.githubusercontent.com/121276241/233530736-a812be89-51cb-45cc-be11-e2ffc2b71036.png)<br>
 
-- PANTALLA DE INICIO DE SESIÓN<br>![edicion de reservas](https://user-images.githubusercontent.com/121276241/233856862-539b1625-420d-47f5-acd0-36db526da532.png)
+- PANTALLA DE INICIO DE SESIÓN<br>
 
 La cúal contará con una verificasión para confirmar que los datos de usuario y contraseña sean correctos.<br><br>
 ![inicio de sesion](https://user-images.githubusercontent.com/121276241/233531210-e2dc22ea-7c71-44e1-9ebc-08d3a6325d26.png) ![error inicio de sesion](https://user-images.githubusercontent.com/121276241/233530539-57777511-cf5c-4b51-bce9-123c94e135c9.png)<br>
