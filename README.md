@@ -57,8 +57,16 @@ Buscar por parametros en nuestros registro, en este caso lo realicé busqueda po
 
 ![busqueda por id](https://user-images.githubusercontent.com/121276241/233856077-d4bada85-67cf-438e-b713-2ff976aef8e8.png)<br>
 
-Actualizar nuestra tabla una vez borrado un registro<br>
-![actualiza las reservas restantes](https://user-images.githubusercontent.com/121276241/233856813-77aaa3e9-3d6f-4dcd-913a-de32170358c8.png)<br>
+Actualizar nuestra tabla una vez borrado un registro<br><br>
+![actualiza las reservas restantes](https://user-images.githubusercontent.com/121276241/233856813-77aaa3e9-3d6f-4dcd-913a-de32170358c8.png)<br><br>
+
+## Enlace al video demostrativo del funcionamiento del programa<br>
+https://youtu.be/f9u8-Vdr1Bg
+
+## GRACIAS POR SU LECTURA!!!<br>
+www.linkedin.com/in/
+hector-baquedano-9506b325b
+
 
 
 
